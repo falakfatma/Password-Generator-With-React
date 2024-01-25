@@ -1,0 +1,25 @@
+.main{
+  padding: 5rem;
+  height: 100vh;
+  background: rgb(10, 10, 115);
+  color: rgb(249, 249, 249);
+}
+span{
+  padding-inline: .9rem;
+  font-size: larger;
+}
+.textArea{
+  padding: .4rem;
+  border-radius:.5rem;
+  font-size: large;
+}
+.btn{
+  width: 9rem;
+  margin-left: .9rem;
+  background-color: rgb(35, 43, 118);
+  border: 2px solid rgb(27, 10, 97);
+  padding: .2rem;
+  border-radius: .4rem;
+  cursor: pointer;
+  /* margin: 0px; */
+}
